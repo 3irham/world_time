@@ -1,6 +1,6 @@
 # world_time
 
-A new Flutter project.
+The first Flutter project.
 
 ## Getting Started
 
